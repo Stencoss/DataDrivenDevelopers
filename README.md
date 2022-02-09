@@ -1,5 +1,5 @@
 Most Widely Used Programming Languages
-# Into Image
+
 ![alt txt](Images/IntroImage.jpeg)
 
 Project Narrative
