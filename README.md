@@ -20,7 +20,7 @@ Questions
   
 
 Project Organizers:
-Marquestta Valdez : Visualizations
+Marquetta Valdez : Visualizations
 Steve DeNoia : Repository Manager/Data Cleanup
 George Vallejo: ReadMe and Final Analysis
 Mindy Garcia : Data Cleanup
