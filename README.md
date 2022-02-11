@@ -13,8 +13,14 @@ Questions
 3. Around the world, are there language preferences based on counntry?
 4. Specifically in the US, are there language preferences in the different   states?
 
+![alt txt](Images/workWITH.png)        ![alt txt](Images/WANTwork.png) 
+
+  
+
+  
+
 Project Organizers:
-Marquestta Valdez : Visualizations
+Marquetta Valdez : Visualizations
 Steve DeNoia : Repository Manager/Data Cleanup
 George Vallejo: ReadMe and Final Analysis
 Mindy Garcia : Data Cleanup
