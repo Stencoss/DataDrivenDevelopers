@@ -7,17 +7,23 @@ The objective of this project is to determine which programming language is the 
 
 Hypothesis: Javascript is the most widely used language in the tech community.
 
-Questions
-1. Does age affect the programming language used?
-2. Is there a preference amongst the genders?
-3. Around the world, are there language preferences based on counntry?
-4. Specifically in the US, are there language preferences in the different   states?
+# Questions
+1.  Is there a preference amongst the genders?
+2. Does age affect the programming language used?
+3. Around the world, which countries utilized the most used programming language ?
+4. Specifically in the US, which state used the most commonly used programming language the most?
 
-![alt txt](Images/workWITH.png)        ![alt txt](Images/WANTwork.png) 
+![alt txt](Images/workWITH.png) ![alt txt](Images/WANTwork.png) 
 
-  
+![alt txt](Images/country_percents.png)
 
-  
+![alt txt](Images/JS.usersbyage.png)
+
+![alt txt](Images/JSusercountry.png)
+
+  ![alt txt](Images/genderJSusers.png)
+
+![alt txt](Images/StatesmostJSusers.png)
 
 Project Organizers:
 Marquetta Valdez : Visualizations
