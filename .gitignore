@@ -9,6 +9,10 @@ api_keys.py
 API_practice.ipynb
 random_numbers.ipynb
 test.py
+survey_results_public2017.csv
+survey_results_public2018.csv
+survey_results_public2019.csv
+survey_results_public2020.csv
 
 
 # C extensions
