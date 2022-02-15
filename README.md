@@ -14,6 +14,11 @@ Hypothesis: Javascript is the most widely used language in the tech community.
 4. Specifically in the US, which state used the most commonly used programming language the most?
 
 # Reports
+
+# Original DataFrame
+![alt txt](Images/OriginalDF1.png) ![alt txt](Images/OriginalDF2.png) 
+
+
 The pie chart shows that Java Script is the most used programming lanugage of the 85,000 individuals surveyed. The pie charts also show that Java Script is the programming language that coders most want to work with.
 
 ![alt txt](Images/workWITH.png) ![alt txt](Images/WANTwork.png) 
@@ -45,8 +50,17 @@ Once it was determined that Java Script was the programming language that was us
 This bar chart shows how many repondant in each state use Java Script. 
 ![alt txt](Images/StatesmostJSusers.png)
 
+
+# Final Analysis
+
+Of the 80, 00 respondents who answered the survey on slack, JavaScript was the most widely used programming language. 
+
+United States and India were the two countries who used java script the most and California was the state with the greatest java script usage. 
+
+Our data showed that men were more likely to use java script compared to women
+
 Project Organizers:
-Marquetta Valdez : Visualizations
-Steve DeNoia : Repository Manager/Data Cleanup
-George Vallejo: ReadMe and Final Analysis
-Mindy Garcia : Data Cleanup
+Marquetta Valdez: Gender Pie Charts, Data Clean up, Presentation, and Sorting Code
+Steve DeNoia : Loop for JavaScript, Data Clean up, State Bar graph and Git Hub leader
+George Vallejo: Country DataFrames, Readme, and Presentation
+Mindy Garcia : Age group bar charts, Data Clean up, Presentation and Read me.
