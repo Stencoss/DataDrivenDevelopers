@@ -30,7 +30,7 @@ In the bar graph we are showing how the majority of the people surveyed, who use
 
 
 # Java Scrip Users By Age
-We conducted a study to determine which age groups predominantly utilized javascript as their primary programming language. The graph below delineates the information gathered defined by the different age groups that used javascript as their programing language. The associated graph denotes user age groups in descending order.
+We conducted a study to determine which age groups predominantly utilized javascript as their primary programming language. The graph below delineates the information gathered, defined by the different age groups that used javascript as their programming language. The associated graph denotes the popularity of JavaScript users by age group in descending order.
 ![alt txt](Images/JS.usersbyage.png)
 
 
