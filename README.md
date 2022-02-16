@@ -18,12 +18,12 @@ Hypothesis: JavaSript is the most widely used language in the tech community.
 # Original DataFrame
 ![alt txt](Images/OriginalDF1.png) ![alt txt](Images/OriginalDF2.png) 
 
-
+# Most Popular Codes
 The pie chart shows that JavaScript is the most used programming lanugage of the 85,000 individuals surveyed. The pie charts also show that JavaScript is the programming language that coders most want to work with.
 
 ![alt txt](Images/workWITH.png) ![alt txt](Images/WANTwork.png) 
 
-
+# Gender Usage
 In the bar graph we are showing how the majority of the people surveyed, who used JavaScript, were male. 
 
 ![alt txt](Images/genderJSusers.png)
